@@ -46,8 +46,6 @@ Public publishing is GitHub-first. Download or clone the Skill folder from the r
 
 ChatGPT users can upload or share the Skill folder where Skills are available. Codex users can place the folder in a project or user skills directory. Compatible Agent Skills tools can install from a GitHub repository when they support that flow.
 
-For directories that require a `/skills/` layout, the same Skill is mirrored at `skills/mac-migration-operator/`.
-
 Direct paid Skill sales are not the main official path today. A public GPT, a ChatGPT App, consulting, support packages, or training material may be better paths later, depending on what the platform supports.
 
 ## Safety

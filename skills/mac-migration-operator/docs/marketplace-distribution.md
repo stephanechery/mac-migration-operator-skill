@@ -64,13 +64,3 @@ npx skills find "mac migration"
 ```
 
 Next step: submit manually to ClaudeSkills.info and SkillsLLM from the accounts that should own those listings, then re-check skills.sh and SkillsMP search indexing.
-
-## Compatibility Layout
-
-Some directories expect a repository-level `/skills/` folder. The canonical Skill files are mirrored at:
-
-```text
-skills/mac-migration-operator/
-```
-
-The `skills` CLI was checked locally after adding this mirror and still found one Skill named `mac-migration-operator`.
