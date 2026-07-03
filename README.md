@@ -70,6 +70,7 @@ Use evidence labels when recording results:
 - `docs/external-drives.md`: checking external-drive work.
 - `docs/retirement-gate.md`: deciding when the old Mac can be retired.
 - `docs/publishing-and-installation.md`: publishing and install notes.
+- `docs/marketplace-distribution.md`: marketplace listing status and submission copy.
 
 ## Examples
 
