@@ -10,8 +10,8 @@ Repository: https://github.com/stephanechery/mac-migration-operator-skill
 | --- | --- | --- | --- |
 | GitHub | Published | Public repository exists under `stephanechery/mac-migration-operator-skill`. | Keep README, topics, releases, and security notes current. |
 | skills.sh / `npx skills` | Compatible, not yet indexed in search | `npx skills add stephanechery/mac-migration-operator-skill --list` finds `mac-migration-operator`; `npx skills find "mac migration"` did not show it yet. | Wait for indexing, then re-check search. If listing data is wrong, use the skills.sh correction process. |
-| ClaudeSkills.info | Manual login required | Submit page redirects to Google sign-in before the form is available. | Sign in with the desired Google account and submit the GitHub repository URL. |
-| SkillsLLM | Manual GitHub sign-in required | Submit page asks the maintainer to sign in with GitHub before submitting. | Sign in with the GitHub account that owns the repo and submit. |
+| ClaudeSkills.info | Blocked by generic submission error | Google sign-in succeeded with `stephanchery@gmail.com`. GitHub URL submission failed twice, including after adding the repository-level `/skills/` layout. ZIP upload also failed with `Failed to create submission` on 2026-07-03. | Re-try later or contact ClaudeSkills maintainers with the repo URL and ZIP SHA-256. |
+| SkillsLLM | Submitted for review | GitHub passkey sign-in succeeded as `stephanechery`. SkillsLLM accepted `https://github.com/stephanechery/mac-migration-operator-skill` and showed `Skill submitted successfully! It will be reviewed shortly.` on 2026-07-03. | Watch for approval or feedback, then verify public listing. |
 | SkillsMP | Likely indexed/search based | Public docs describe a large collected SKILL.md catalog and GitHub source inspection. | Re-check after GitHub indexing; no clear manual submit form was found. |
 | officialskills.sh / VoltAgent awesome-agent-skills | Defer | Contribution guidelines say brand-new skills are not accepted and community-adopted, proven skills should be submitted later. | Revisit after there is usage evidence such as stars, installs, forks, or testimonials. |
 | Agensi | Manual creator account required | Agensi supports selling or free listing through a creator flow, scans skills, and pays creators through Stripe Connect. | Decide whether to list a free version or create a paid/support version, then sign in and submit through creator dashboard. |
@@ -63,7 +63,7 @@ npx skills add stephanechery/mac-migration-operator-skill --list
 npx skills find "mac migration"
 ```
 
-Next step: submit manually to ClaudeSkills.info and SkillsLLM from the accounts that should own those listings, then re-check skills.sh and SkillsMP search indexing.
+Next step: watch for SkillsLLM approval or feedback, then re-check ClaudeSkills.info, skills.sh, SkillsMP, Capafy, and SkillsLLM public indexing.
 
 ## Compatibility Layout
 
