@@ -15,6 +15,7 @@ Repository: https://github.com/stephanechery/mac-migration-operator-skill
 | SkillsMP | Likely indexed/search based | Public docs describe a large collected SKILL.md catalog and GitHub source inspection. | Re-check after GitHub indexing; no clear manual submit form was found. |
 | officialskills.sh / VoltAgent awesome-agent-skills | Defer | Contribution guidelines say brand-new skills are not accepted and community-adopted, proven skills should be submitted later. | Revisit after there is usage evidence such as stars, installs, forks, or testimonials. |
 | Agensi | Manual creator account required | Agensi supports selling or free listing through a creator flow, scans skills, and pays creators through Stripe Connect. | Decide whether to list a free version or create a paid/support version, then sign in and submit through creator dashboard. |
+| Capafy | Added, pending public verification | User reported that the Skill was added to Capafy. Public search for `Mac Migration Operator` did not find an indexed listing yet on 2026-07-03. | Re-check public listing once Capafy finishes review or indexing. |
 | mcpservers.org Agent Skills Library | Manual contact/email required, uncertain fit | The Agent Skills Library exists, but the submit form is labeled for MCP servers and requires contact email. | Ask maintainers whether Agent Skills can be submitted through the same form before using it. |
 
 ## Suggested Submission Copy
