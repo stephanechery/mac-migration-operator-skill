@@ -73,6 +73,10 @@ Use evidence labels when recording results:
 - `docs/retirement-gate.md`: deciding when the old Mac can be retired.
 - `docs/publishing-and-installation.md`: publishing and install notes.
 - `docs/marketplace-distribution.md`: marketplace listing status and submission copy.
+- `docs/listing-copy.md`: marketplace, social, and support-offer copy.
+- `docs/pricing-tiers.md`: draft paid support tiers and approval gates.
+- `docs/offer-page.md`: draft landing-page copy for guided support.
+- `docs/launch-notes.md`: first-launch plan and public post copy.
 
 ## Examples
 

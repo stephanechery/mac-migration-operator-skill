@@ -53,6 +53,6 @@ That command resolved the GitHub repository and found one Skill named `mac-migra
 
 Direct paid Skill sales are not the main official path today. Practical future paths may include a public GPT if eligible, a ChatGPT App if the platform fit is strong, consulting, paid support, or training material. Do not overstate platform support or promise payment options that do not exist.
 
-See `marketplace-distribution.md` for current marketplace targets, submission status, and copy that can be reused in listing forms.
+See `marketplace-distribution.md` for current marketplace targets and submission status. Use `listing-copy.md`, `pricing-tiers.md`, `offer-page.md`, and `launch-notes.md` when preparing public listings or paid support offers.
 
 Next step: before publishing, run a private-content search across the package and review every match manually.

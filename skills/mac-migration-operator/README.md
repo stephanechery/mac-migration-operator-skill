@@ -46,6 +46,8 @@ Public publishing is GitHub-first. Download or clone the Skill folder from the r
 
 ChatGPT users can upload or share the Skill folder where Skills are available. Codex users can place the folder in a project or user skills directory. Compatible Agent Skills tools can install from a GitHub repository when they support that flow.
 
+For directories that require a `/skills/` layout, the same Skill is mirrored at `skills/mac-migration-operator/`.
+
 Direct paid Skill sales are not the main official path today. A public GPT, a ChatGPT App, consulting, support packages, or training material may be better paths later, depending on what the platform supports.
 
 ## Safety
@@ -71,6 +73,10 @@ Use evidence labels when recording results:
 - `docs/retirement-gate.md`: deciding when the old Mac can be retired.
 - `docs/publishing-and-installation.md`: publishing and install notes.
 - `docs/marketplace-distribution.md`: marketplace listing status and submission copy.
+- `docs/listing-copy.md`: marketplace, social, and support-offer copy.
+- `docs/pricing-tiers.md`: draft paid support tiers and approval gates.
+- `docs/offer-page.md`: draft landing-page copy for guided support.
+- `docs/launch-notes.md`: first-launch plan and public post copy.
 
 ## Examples
 
