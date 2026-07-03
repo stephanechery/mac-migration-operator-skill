@@ -41,6 +41,14 @@ Use the Mac Migration Operator Skill to validate my new Mac before I retire the 
 
 Agent Skills use an open folder format centered on `SKILL.md`. Compatible tools may install from a GitHub repository or local folder. Follow the specific tool's instructions and review what files it will add.
 
+The initial repository was checked with:
+
+```bash
+DISABLE_TELEMETRY=1 npx --yes skills add stephanechery/mac-migration-operator-skill --list
+```
+
+That command resolved the GitHub repository and found one Skill named `mac-migration-operator`.
+
 ## Monetization Notes
 
 Direct paid Skill sales are not the main official path today. Practical future paths may include a public GPT if eligible, a ChatGPT App if the platform fit is strong, consulting, paid support, or training material. Do not overstate platform support or promise payment options that do not exist.
