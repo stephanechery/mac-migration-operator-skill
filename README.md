@@ -4,6 +4,8 @@ Mac Migration Operator is an open Agent Skill for moving from one Mac to another
 
 It helps a user plan the move, freeze the source Mac, choose a transfer method, validate the new Mac, repair small gaps, and decide when the old Mac can be retired.
 
+Public repository: https://github.com/stephanechery/mac-migration-operator-skill
+
 ## What It Does
 
 - Guides Migration Assistant, Time Machine, cloud-drive, external-drive, manual, and hybrid migrations.
@@ -40,7 +42,7 @@ Review every command before running it. Do not paste command output into an issu
 
 ## Install
 
-Public publishing is GitHub-first. Download or clone the Skill folder from the repository when it is published.
+Public publishing is GitHub-first. Download or clone the Skill folder from the repository.
 
 ChatGPT users can upload or share the Skill folder where Skills are available. Codex users can place the folder in a project or user skills directory. Compatible Agent Skills tools can install from a GitHub repository when they support that flow.
 

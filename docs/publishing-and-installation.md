@@ -2,6 +2,8 @@
 
 This Skill is designed for public GitHub-first publishing. A public repository makes the files easy to review, clone, share, and install with compatible Agent Skills tools.
 
+Public repository: https://github.com/stephanechery/mac-migration-operator-skill
+
 ## Publish on GitHub
 
 1. Confirm the package contains `SKILL.md`, `README.md`, `LICENSE`, `CHANGELOG.md`, `SECURITY.md`, `CONTRIBUTING.md`, `docs/`, and `templates/`.
@@ -9,6 +11,17 @@ This Skill is designed for public GitHub-first publishing. A public repository m
 3. Add repository topics such as `agent-skills`, `chatgpt-skills`, `codex-skills`, `macos`, and `mac-migration`.
 4. Use normal GitHub review before release.
 5. If GitHub CLI supports Skill publishing in your environment, run its validation or publish command after reviewing what it will do.
+
+Published topics on the initial GitHub repository:
+
+- `agent-skills`
+- `chatgpt-skills`
+- `codex-skills`
+- `mac-migration`
+- `macos`
+- `migration-assistant`
+
+On 2026-07-03, `gh skill publish --help` was checked on the maintainer machine and returned `unknown command "skill" for "gh"`. The Skill is therefore published through the public GitHub repository first. Re-check this command before future releases because GitHub CLI support may change.
 
 ## Install in ChatGPT
 
